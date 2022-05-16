@@ -1,0 +1,48 @@
+.fav {
+  color: white;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: 10px;
+  .favContainer {
+    position: relative;
+    max-width: 1500px;
+    width: 100%;
+    border-radius: 10px;
+    justify-content: flex-start;
+    span {
+      color: red;
+    }
+    .favMessage {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 50vh;
+    }
+    .favEpisodes {
+      .cardContainer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        margin: 10px 20px;
+        a {
+          color: white;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .fav {
+    .favContainer {
+      .favEpisodes {
+        .cardContainer {
+          margin: 10px 0;
+        }
+      }
+    }
+  }
+}

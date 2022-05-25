@@ -12,7 +12,7 @@
 <h4>Para editar esse projeto, basta clonar esse repositório e rodar os seguintes comandos:</h4>
 <p>npm i ou yarn install</p>
 <p>npm start ou yarn start</p>
-<h4 align="center">Divirta-se!</h4>
 <div align="center">
-  <img align="center" height ="300" src="https://user-images.githubusercontent.com/50087300/170379050-8f721a4b-c1a5-40de-b07a-dbfd8b23654e.gif" />
+  <h4>Divirta-se!</h4>
+  <img align="center" height ="300" src="https://user-images.githubusercontent.com/50087300/170383937-d58d09e4-7e8f-4df6-bff0-500d23e668f0.gif"/>
 </div>

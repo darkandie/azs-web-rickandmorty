@@ -13,4 +13,6 @@
 <p>npm i ou yarn install</p>
 <p>npm start ou yarn start</p>
 <h4 align="center">Divirta-se!</h4>
-<img align="center" src="https://user-images.githubusercontent.com/50087300/170379050-8f721a4b-c1a5-40de-b07a-dbfd8b23654e.gif" />
+<div align="center">
+  <img align="center" height ="300" src="https://user-images.githubusercontent.com/50087300/170379050-8f721a4b-c1a5-40de-b07a-dbfd8b23654e.gif" />
+</div>
